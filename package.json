@@ -11,7 +11,6 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -21,5 +20,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradtraversy/mern_shopping_list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bradtraversy/mern_shopping_list/issues"
+  },
+  "homepage": "https://github.com/bradtraversy/mern_shopping_list#readme"
 }
