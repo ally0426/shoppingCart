@@ -23,10 +23,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradtraversy/mern_shopping_list.git"
+    "url": "git+https://github.com/ally0426/shoppingCart.git"
   },
   "bugs": {
-    "url": "https://github.com/bradtraversy/mern_shopping_list/issues"
+    "url": "https://github.com/ally0426/shoppingCart/issues"
   },
-  "homepage": "https://github.com/bradtraversy/mern_shopping_list#readme"
+  "homepage": "https://github.com/ally0426/shoppingCart#readme",
+  "author": ""
 }
